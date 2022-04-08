@@ -1,2 +1,2 @@
 # node-docker
-Simple node and express docker 
+It's a Docker hosted app which I am testing.
